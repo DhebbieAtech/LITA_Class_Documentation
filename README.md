@@ -43,7 +43,10 @@ Lessons learnt includes:
  4.   Installation of PowerBI.
 
   
-      [Manuscript STS2_17.docx](https://github.com/user-attachments/files/17263487/Manuscript.STS2_17.docx)
+###creating a table in github
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
   
 
    
