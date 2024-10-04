@@ -24,8 +24,9 @@ Lessons learnt includes:
 3. Introduction to Excel functions 
    - These included basic arithmetic functions such as SUM,MIN,MAX,AVERAGE,LARGE ETC . A structured dataset was provided for us to make use of these functions in excel
    - Working with excel functions with text contents (Text extractions). such as LEFT,RIGHT,MID,TRIM,PROPER,LOWER,UPPER,etc.
-4.  Text cleaninig
-   -   
+4.  Text cleaning 
+   -   This was clearly illustrated using a dataset as hands-on. Extraction can be done using various functions such as VLOOKUP, HLOOKUP, CHOOSE , etc.
+5.   Cell Referencing , such as Absolute and relative referencing    
 
    
    
