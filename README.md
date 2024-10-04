@@ -1,23 +1,23 @@
 
  [LITA Class Documentation](#lita-class-documentation)
  
- [Documenting my journey in LITA](documenting-my-journey-in-lita)
+ [Documenting my journey in LITA](#documenting-my-journey-in-lita)
  
- [Project Overview](project-overview)
+ [Project Overview](#project-overview)
  
- [TOOls Used](tools-used)
+ [TOOls Used](#tools-used)
  
- [Ms Excel](ms-excel)
+ [Ms Excel](#ms-excel)
  
- [MySQL](mysql)
+ [MySQL](#mysql)
  
- [Power BI](power-bi)
+ [Power BI](#power-bi)
  
- [creating a table in github](creating-a-table-in-github)
+ [creating a table in github](#creating-a-table-in-github)
  
- [Creating block of codes in github](creating-block-of-codes-in-github)
+ [Creating block of codes in github](#creating-block-of-codes-in-github)
  
- [Creating hyperlinks/table of content for each headings](creating-hyperlinks/table-of-content-for-each-headings)
+ [Creating hyperlinks/table of content for each headings](#creating-hyperlinks/table-of-content-for-each-headings)
  
 
 # LITA Class Documentation
