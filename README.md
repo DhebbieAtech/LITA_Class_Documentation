@@ -42,7 +42,8 @@ Lessons learnt includes:
  3.   Comparing PowerBI to other visual tools such as Tableau.
  4.   Installation of PowerBI.
 
-  ```    [Manuscript STS2_17.docx](https://github.com/user-attachments/files/17263487/Manuscript.STS2_17.docx)
+  
+      [Manuscript STS2_17.docx](https://github.com/user-attachments/files/17263487/Manuscript.STS2_17.docx)
   
 
    
