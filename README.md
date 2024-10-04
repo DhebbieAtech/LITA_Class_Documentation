@@ -26,7 +26,22 @@ Lessons learnt includes:
    - Working with excel functions with text contents (Text extractions). such as LEFT,RIGHT,MID,TRIM,PROPER,LOWER,UPPER,etc.
 4.  Text cleaning 
    -   This was clearly illustrated using a dataset as hands-on. Extraction can be done using various functions such as VLOOKUP, HLOOKUP, CHOOSE , etc.
-5.   Cell Referencing , such as Absolute and relative referencing    
+5.   Cell Referencing , such as Absolute and relative referencing.
+6.   Reporting with Pivot tables.
+      -Creating charts and report creation for presentations.
+
+### The journey with SQL
+  1. Introduction to different available Database Management Systems
+  2. This include the installation of MYSQL server
+  3. Hands-on practice with codes
+  4. Understanding what a primary key is  and editting in MYSQL server.
+
+### The Journey into Power BI
+ 1.   Introduction into Guthub and its functionalities
+ 2.   Introduction to PowerBI and its capabilities
+ 3.   Comparing PowerBI to other visual tools such as Tableau.
+ 4.   Installation of PowerBI.
+        
 
    
    
