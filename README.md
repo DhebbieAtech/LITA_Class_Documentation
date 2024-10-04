@@ -12,4 +12,19 @@ I will be docoumenting my progress here as I learn the rudiments of DATA ANALYSI
 4. Some of the lessons learnt will be shared.
 
 ###  The journey with Ms Excel....
+Some of the lessons learnt include"
+1. Data Entry in excel : which explains how data is inputted into excel worksheets/workbooks.
+   -This section also covered several shortcuts that can be used.
+   -I also learnt how to make use of forms,which can be used whenever data to be entered into worksheet is voluminous.
+2. Data Validation: A smart way of avoiding errors during data input,it is a way of validating entries we so desire.
+Lessons learnt includes:
+   -Column validation with texts
+   -Column validation that has dates 
+   -Clearing validation.
+3. Introduction to Excel functions
+   -These included basic excel functions such as SUM,MIN,MAX,AVERAGE,LARGE ETC . A structured dataset was provided for us to make use of these functions in excel
+   -
+   
+   
+   
 
