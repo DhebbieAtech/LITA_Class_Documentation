@@ -21,9 +21,12 @@ Lessons learnt includes:
    -Column validation with texts
    -Column validation that has dates 
    -Clearing validation.
-3. Introduction to Excel functions
-   -These included basic excel functions such as SUM,MIN,MAX,AVERAGE,LARGE ETC . A structured dataset was provided for us to make use of these functions in excel
-   -
+3. Introduction to Excel functions 
+   - These included basic arithmetic functions such as SUM,MIN,MAX,AVERAGE,LARGE ETC . A structured dataset was provided for us to make use of these functions in excel
+   - Working with excel functions with text contents (Text extractions). such as LEFT,RIGHT,MID,TRIM,PROPER,LOWER,UPPER,etc.
+4.  Text cleaninig
+   -   
+
    
    
    
