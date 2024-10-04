@@ -1,5 +1,5 @@
 
- [LITA Class Documentation]#(lita-class-documentation)
+ [LITA Class Documentation](lita-class-documentation)
  
  [Documenting my journey in LITA](documenting-my-journey-in-lita)
  
