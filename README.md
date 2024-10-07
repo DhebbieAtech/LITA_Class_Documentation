@@ -15,7 +15,7 @@
  
  [creating a table in github](#creating-a-table-in-github)
  
- [Sample(Creating)block of codes in github](#sample(creating)block-of-codes-in-github)
+ [Sample block of codes in github](#sample-block-of-codes-in-github)
  
  [Creating hyperlinks/table of content for each headings](#creating-hyperlinks/table-of-content-for-each-headings)
  
@@ -72,7 +72,7 @@ Lessons learnt includes:
 |Table 1|Table 2|Table 3|
 
 
-### Sample (Creating) block of codes in github
+### Sample block of codes in github
 
 ```SQL
 select  * from table 1
