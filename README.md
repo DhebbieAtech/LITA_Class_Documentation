@@ -77,7 +77,3 @@ select  * from table 1
 Where Condition = FALSE
 ```
   
-
-
-
-
