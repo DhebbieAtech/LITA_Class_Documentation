@@ -15,7 +15,7 @@
  
  [creating a table in github](#creating-a-table-in-github)
  
- [Sample(Creating)block of codes in github](#Sample(Creating)block-of-codes-in-github)
+ [Sample(Creating)block of codes in github](#sample(creating)block-of-codes-in-github)
  
  [Creating hyperlinks/table of content for each headings](#creating-hyperlinks/table-of-content-for-each-headings)
  
