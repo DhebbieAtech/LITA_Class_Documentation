@@ -17,8 +17,6 @@
  
  [Sample block of codes in github](#sample-block-of-codes-in-github)
  
- [Creating hyperlinks/table of content for each headings](#creating-hyperlinks/table-of-content-for-each-headings)
- 
 
 # LITA Class Documentation
 This is my first attempt using github
@@ -79,9 +77,7 @@ select  * from table 1
 Where Condition = FALSE
 ```
   
-### Creating hyperlinks/table of content for each headings
 
-   
 
 
 
